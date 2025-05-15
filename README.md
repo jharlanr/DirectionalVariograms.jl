@@ -6,5 +6,5 @@
 using VariogramVerify
 ```
 
-## Usage
-
+## Example
+<img src="assets/VariogramVerify_ex.png" alt="Example" width="480px" />
