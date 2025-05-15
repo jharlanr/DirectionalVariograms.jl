@@ -224,10 +224,12 @@ angles, ranges, idx_maj, idx_min, g_list, γ_list = rangefinder(rtb, maxlag=maxl
 p = rangerose(angles, ranges, idx_maj, idx_min)
 
 
-
+using VariogramVerify
 
 
 ## PLOT variograms
+
+
 
 
 
