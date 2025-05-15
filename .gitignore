@@ -1,0 +1,39 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environments (if applicable)
+.env/
+venv/
+Manifest.toml
+.julia
+.julia_history
+
+# Ignore compiled files
+*.so
+.ipynb_checkpoints/
+*.ji
+*.so
+*.dylib
+*.dll
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# ignore data files
+*.csv
+*.npz
+*.npy
+*.gdb
+*.xyz
+*.kmz
+*200m.txt
+*.nc
+
+# ignore figures
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.pdf
