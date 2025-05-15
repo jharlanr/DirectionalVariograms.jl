@@ -1,0 +1,11 @@
+name = "VariogramVerify"
+uuid = "3743b8ef-4bf9-4db8-be1f-ac92c15a33ac"
+version = "0.1.0"
+
+[deps]
+GeoStats = "dcc97b0b-8ce5-5539-9008-bb190f959ef6"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+[compat]
+GeoStats = "0.78.3"
+Unitful = "1.22.1"
